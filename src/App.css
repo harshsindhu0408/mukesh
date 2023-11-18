@@ -1,0 +1,22 @@
+/* write your css here */
+
+* {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+.mainSection {
+  background-image: url("../assets/main-bg.jpg");
+  height: 1080px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+
+.mainSection2 {
+  background-image: url("../assets/222.jpg");
+  height: 1080px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
